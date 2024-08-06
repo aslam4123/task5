@@ -44,12 +44,13 @@ span{
 .div5{
     height: 100px;
     width: 100px;
-   background-image: url(./images/pexels-goumbik-1420709.jpg);
+   background-image: url(./images/pexels-atccommphoto-306763.jpg);
    position: fixed;
    top: 0px;
    right: 0px;
     margin: 40px;
     z-index: 2;
+    background-size: cover;
 }
 .box{
     height: 100px;
